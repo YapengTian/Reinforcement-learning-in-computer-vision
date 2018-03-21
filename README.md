@@ -11,6 +11,7 @@
 
 ## Face Recognition and Hallucination
 [1] Yongming Rao,Jiwen Lu, Jie Zhou. Attention-aware Deep Reinforcement Learning for Video Face Recognition, ICCV, 2017. [[Paper]](https://pdfs.semanticscholar.org/f270/0e3d69d3cce2e0b1aea0d7f87e74aff437cd.pdf)
+
 [2] Qingxing Cao, Liang Lin, Yukai Shi, Xiaodan Liang, Guanbin Li.Attention-Aware Face Hallucination via Deep Reinforcement Learning. Arxiv, 2017. [[Paper]](https://arxiv.org/abs/1708.03132)
 
 ## Semantic Parsing 
