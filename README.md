@@ -16,3 +16,6 @@
 
 ## Semantic Parsing 
 [1] Fangyu Liu, Shuaipeng Li, Liqiang Zhang, Chenghu Zhou, Rongtian Ye, Yuebin Wang, Jiwen Lu. 3DCNN-DQN-RNN: A Deep Reinforcement Learning Framework for Semantic Parsing of Large-Scale 3D Point Clouds. ICCV, 2017. [[Paper]](https://arxiv.org/abs/1707.06783)
+
+## Video Summarization 
+[1] Kaiyang Zhou, Yu Qiao, Tao Xiang. Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward. AAAI, 2018. [[Project]](https://kaiyangzhou.github.io/)
