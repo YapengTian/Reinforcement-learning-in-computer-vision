@@ -19,3 +19,6 @@
 
 ## Video Summarization 
 [1] Kaiyang Zhou, Yu Qiao, Tao Xiang. Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward. AAAI, 2018. [[Project]](https://kaiyangzhou.github.io/)
+
+## Active Object localization
+[1] Juan C. Caicedo, Svetlana Lazebnik. Active Object Localization with Deep Reinforcement Learning. ICCV, 2015. [[Paper]](http://slazebni.cs.illinois.edu/publications/iccv15_active.pdf)
