@@ -14,6 +14,9 @@
 
 [2] Qingxing Cao, Liang Lin, Yukai Shi, Xiaodan Liang, Guanbin Li.Attention-Aware Face Hallucination via Deep Reinforcement Learning. Arxiv, 2017. [[Paper]](https://arxiv.org/abs/1708.03132)
 
+## Image Restoration
+[1] Ke Yu, Chao Dong, Liang Lin, Chen Change Loy. Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning. CVPR 2018. [[Paper]](https://arxiv.org/abs/1804.03312)
+
 ## Semantic Parsing 
 [1] Fangyu Liu, Shuaipeng Li, Liqiang Zhang, Chenghu Zhou, Rongtian Ye, Yuebin Wang, Jiwen Lu. 3DCNN-DQN-RNN: A Deep Reinforcement Learning Framework for Semantic Parsing of Large-Scale 3D Point Clouds. ICCV, 2017. [[Paper]](https://arxiv.org/abs/1707.06783)
 
